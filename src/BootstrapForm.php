@@ -4,8 +4,8 @@ namespace Watson\BootstrapForm;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
-use Collective\Html\FormBuilder;
-use Collective\Html\HtmlBuilder;
+use LaravelLux\Html\FormBuilder;
+use LaravelLux\Html\HtmlBuilder;
 use Illuminate\Support\HtmlString;
 use Illuminate\Support\Facades\Lang;
 use Illuminate\Support\Traits\Macroable;
